@@ -1,0 +1,87 @@
+JS DOWNLOADER - END USER LICENSE AGREEMENT (EULA) & PRIVACY POLICY
+============================================================
+Last Updated: October 2026
+
+PLEASE READ THIS AGREEMENT CAREFULLY BEFORE INSTALLING OR USING JS DOWNLOADER.
+BY CLICKING "I ACCEPT", OR BY INSTALLING, COPYING, OR USING THIS SOFTWARE,
+YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS AGREEMENT.
+
+------------------------------------------------------------------
+1. GRANT OF LICENSE
+------------------------------------------------------------------
+JS Downloader ("the Software") is licensed, not sold. Subject to the terms
+of this Agreement, you are granted a non-exclusive, non-transferable, revocable
+license to install and use JS Downloader on personal computers or supported
+devices owned or controlled by you for personal or lawful business purposes.
+
+------------------------------------------------------------------
+2. USER RESPONSIBILITY & FAIR USE
+------------------------------------------------------------------
+JS Downloader is a high-speed download acceleration tool designed to retrieve
+publicly accessible digital files, streams, and media for offline viewing.
+- You are solely responsible for all content downloaded using this software.
+- You agree to comply with all applicable local and international copyright,
+  intellectual property, and digital rights laws.
+- You must not use JS Downloader to download, redistribute, or reproduce
+  copyright-protected materials without the explicit permission of the respective
+  copyright owners.
+- The developers and distributors of JS Downloader shall not be held liable
+  for any misuse, copyright infringement, or damages resulting from the use
+  of this software.
+
+------------------------------------------------------------------
+3. PRIVACY POLICY & DATA PROTECTION
+------------------------------------------------------------------
+Your privacy and digital security are our top priorities:
+a) Device Authentication:
+   To validate your device and subscription/license status, JS Downloader
+   generates a cryptographically hashed hardware identifier (SHA-256) and transmits
+   it securely via TLS 1.3 encryption to our license server (downloader-api.sabnix.com).
+   No personally identifiable hardware serial numbers are stored in plain text.
+b) Zero Telemetry on Personal Downloads:
+   JS Downloader does NOT monitor, record, log, or store your download URLs,
+   browsing history, video titles, downloaded files, cookies, or credentials.
+   All downloads remain strictly local to your personal computer.
+c) Browser Integration:
+   The companion browser extension operates locally to detect downloadable media
+   streams and passes download links directly to the local JS Downloader host via
+   secure standard Native Messaging. No browsing activity is uploaded to any server.
+d) Data Security:
+   We do not sell, rent, or distribute any user information to third parties.
+
+------------------------------------------------------------------
+4. BROWSER EXTENSIONS & INTEGRATION
+------------------------------------------------------------------
+To facilitate seamless downloading, this installer provides browser integration
+components for Google Chrome, Microsoft Edge, Brave, Mozilla Firefox, and other
+supported browsers. Enabling or adding these extensions is at your discretion,
+and you can disable or uninstall them at any time through your browser settings.
+
+------------------------------------------------------------------
+5. UNINSTALLATION & DATA CLEANUP
+------------------------------------------------------------------
+You can uninstall JS Downloader at any time using the standard Windows
+"Add or Remove Programs" or through the uninstaller located in the application
+directory. Uninstallation completely purges all program binaries, native hosts,
+extension configuration files, and temporary installation caches.
+
+------------------------------------------------------------------
+6. DISCLAIMER OF WARRANTIES & LIMITATION OF LIABILITY
+------------------------------------------------------------------
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTIES OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF OR INABILITY TO USE
+THE SOFTWARE.
+
+------------------------------------------------------------------
+7. CONTACT & SUPPORT
+------------------------------------------------------------------
+For questions, support, or feedback, please visit:
+Website: https://downloader.sabnix.com
+Support: support@sabnix.com
+
+============================================================
+Copyright (C) 2026 JS Downloader Team. All Rights Reserved.
+============================================================
