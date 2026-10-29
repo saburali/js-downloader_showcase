@@ -10,8 +10,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B%20%7C%203.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 [![UI Framework](https://img.shields.io/badge/UI-PyQt6%20%2B%20WebView2-41CD52?style=for-the-badge&logo=qt&logoColor=white)](#)
 [![Architecture](https://img.shields.io/badge/Architecture-6--Layer%20Clean%20Design-8A2BE2?style=for-the-badge)](#)
-[![Status](https://img.shields.io/badge/Release-v2.8.0%20Latest-22C55E?style=for-the-badge&logo=github)](https://github.com/saburali/js-downloader_showcase/releases)
-[![Download](https://img.shields.io/badge/Download-JS__Downloader__Setup.exe-FF7120?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/saburali/js-downloader_showcase/releases/latest/download/JS_Downloader_Setup.exe)
+[![Status](https://img.shields.io/badge/Status-Work%20in%20Progress-FFA500?style=for-the-badge)](#)
 [![Commits](https://img.shields.io/badge/Commits-437%2B-blue?style=for-the-badge&logo=git&logoColor=white)](https://github.com/saburali/js-downloader_showcase/commits/main)
 [![Timeline](https://img.shields.io/badge/Development-July%202026%20--%20Present-9cf?style=for-the-badge)](#)
 
@@ -31,11 +30,11 @@
 
 ---
 
-> [!TIP]
-> **🎉 Official Release v2.8.0 is Now Live!**
-> **The verified Windows installer is now available: [Download JS_Downloader_Setup.exe (v2.8.0)](https://github.com/saburali/js-downloader_showcase/releases/latest/download/JS_Downloader_Setup.exe)**
+> [!IMPORTANT]
+> **🚧 Project Status — Development in Progress:**
+> **Development is currently ongoing. Once completed, the final compiled Application / Installer (`.exe`) will be shared here.**
 >
-> *To protect proprietary core algorithms and security implementations, the source code is maintained in a private repository. This repository serves as the official architectural showcase, visual feature tour, and binary release distribution hub for **JS Downloader**.*
+> *To protect proprietary core algorithms and security implementations, the source code is maintained in a private repository. This repository serves as an architectural showcase, visual feature tour, and release distribution hub for **JS Downloader**.*
 
 ---
 
@@ -414,16 +413,10 @@ Unlike typical desktop utilities that blindly pass URLs to subprocesses, **JS Do
 
 ## 📥 Installation & Releases
 
-### 🚀 Direct Download
-| Package | Version | OS Target | Size | Checksum (SHA-256) |
-| :--- | :--- | :--- | :--- | :--- |
-| [**JS_Downloader_Setup.exe**](https://github.com/saburali/js-downloader_showcase/releases/latest/download/JS_Downloader_Setup.exe) | `v2.8.0` | Windows 10 / 11 (64-bit) | ~162 MB | `21b069b943de84cadfcc4432cdeadab8b68888fa6d51ea8c15aa21ca3f037cb0` |
-
 > [!NOTE]
-> Browse all changelogs and historical builds in the [**Official GitHub Releases**](https://github.com/saburali/js-downloader_showcase/releases) section.
+> **Development is currently in progress. The final Application (`JS_Downloader_Setup.exe`) will be shared in the [**Releases**](../../releases) section once completed.**
 
-### 📦 What the Installer Configures
-The self-contained Inno Setup installer automatically configures:
+Once released, the installer will automatically configure:
 1. The main **JS Downloader** desktop application (`aria2c`, `ffmpeg`, and `qjs` bundled).
 2. **Browser Native Messaging Hosts** for Chrome, Edge, Brave, and Firefox.
 3. Windows Registry associations for `magnet:` links and `.torrent` files.
