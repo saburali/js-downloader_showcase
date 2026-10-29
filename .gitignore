@@ -1,0 +1,7 @@
+# Large binary installers (attach directly to GitHub Releases)
+*.exe
+setup_output/
+dist/
+build/
+*.zip
+*.rar
